@@ -46,10 +46,6 @@ function tesoura(){
     }
 }
 
-pedra()
-papel()
-tesoura()
-
 
 
 
