@@ -7,7 +7,7 @@ function pedra(){
         alert("Você perdeu! o Computador escolheu Papel :/")
 
     } else if (computador < jogador){
-        alert("Parabéns! Você Venceu!")
+        alert("Parabéns! Você Venceu! O Computador escolheu Tesoura")
 
     } else if (computador == jogador){
         alert("Empate!")
@@ -23,7 +23,7 @@ function papel(){
         alert("Você perdeu! O Computador escolheu Tesoura :/")
 
     } else if (computador < jogador){
-        alert("Parabéns! Você Venceu!")
+        alert("Parabéns! Você Venceu! O computador escolheu Pedra")
 
     } else if (computador == jogador){
         alert("Empate!")
@@ -39,7 +39,7 @@ function tesoura(){
         alert("Você perdeu! O Computador escolheu Pedra :/")
 
     } else if (computador < jogador){
-        alert("Parabéns! Você Venceu!")
+        alert("Parabéns! Você Venceu! O computador escolheu Papel")
 
     } else if (computador == jogador){
         alert("Empate!")
